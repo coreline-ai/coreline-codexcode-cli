@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 160" width="640" height="160">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#412991;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a1a2e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#06d6a0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Icon area -->
+  <rect x="10" y="10" width="140" height="140" rx="28" fill="url(#bg)" />
+  <text x="35" y="112" font-family="SF Mono,Menlo,monospace" font-size="90" font-weight="700" fill="url(#accent)">&gt;</text>
+  <rect x="108" y="52" width="20" height="48" rx="3" fill="#10b981" opacity="0.85">
+    <animate attributeName="opacity" values="0.85;0.3;0.85" dur="1.2s" repeatCount="indefinite" />
+  </rect>
+  <!-- Text -->
+  <text x="175" y="75" font-family="Inter,-apple-system,sans-serif" font-size="42" font-weight="700" fill="#ffffff">CodexCode</text>
+  <text x="175" y="118" font-family="Inter,-apple-system,sans-serif" font-size="22" font-weight="400" fill="#9ca3af">GPT-5.4 Terminal Coding Assistant</text>
+</svg>
