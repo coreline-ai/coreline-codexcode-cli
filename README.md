@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./assets/logo-banner.svg" alt="CodexCodeAI" width="540" />
+  <img src="./assets/logo-banner.svg" alt="CodexCodeAI" width="0" />
+
+  <img width="2752" height="1536" alt="똑똑한 터미널 코딩 친구" src="https://github.com/user-attachments/assets/5852d0e3-6909-4acc-8e46-4bc90ae7edf7" />
+
 </p>
 
 <p align="center">
